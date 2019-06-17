@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     const name = 'John Doe';
     const loading = false;
-    const showName = true;
+    const showName = false;
 
     return (
       <div className="App">
